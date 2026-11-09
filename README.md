@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Telecommunications Engineer specializing in Cloud Infrastructure and DevOps</strong><br />
-  <a href="mailto:nassimsaid22@gmail.com">nassimsaid22@gmail.com</a> · Nabeul, Tunisia ·
+  <a href="mailto:nessimsaid22@gmail.com">nessimsaid22@gmail.com</a> · Nabeul, Tunisia ·
   <a href="https://www.linkedin.com/in/nessim-said/">LinkedIn</a> ·
   <a href="https://github.com/nessim141">GitHub</a>
 </p>
