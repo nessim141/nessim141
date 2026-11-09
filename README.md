@@ -8,7 +8,7 @@
   <a href="mailto:nessimsaid22@gmail.com">📧 Email</a> ·
   <a href="www.linkedin.com/in/nessim-said-23321b285">💼 LinkedIn</a> ·
   <a href="https://github.com/nessim141">💻 GitHub</a> ·
-  📍 Nabeul, Tunisia
+  📍 Tunisia
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ specialization:
   - Cloud Infrastructure
   - DevOps & Platform Engineering
   - Kubernetes & Infrastructure Automation
-location: Nabeul, Tunisia
+location: Tunisia
 graduation: 2026
 
 currently_working_on:
