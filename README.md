@@ -147,12 +147,17 @@ A practical, hands-on guide to deploying applications with Argo CD and understan
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nessim141&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Nessim's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nessim141&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Nessim's top languages" />
+  <img src="https://img.shields.io/github/followers/nessim141?style=for-the-badge&logo=github&label=Followers&color=164e63" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/public-repos/nessim141?style=for-the-badge&logo=github&label=Public%20repos&color=0078d4" alt="Public repositories" />
+  <img src="https://img.shields.io/github/commit-activity/y/nessim141/nessim141?style=for-the-badge&logo=git&label=Commits%20this%20year&color=0891b2" alt="Commits this year in this profile repository" />
+  <img src="https://img.shields.io/github/last-commit/nessim141/nessim141?style=for-the-badge&logo=github&label=Last%20update&color=0f172a" alt="Last profile update" />
+  <img src="https://img.shields.io/github/created-at/nessim141/nessim141?style=for-the-badge&logo=github&label=Profile%20created&color=0f172a" alt="Profile creation date" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nessim141&theme=tokyo-night&hide_border=true" alt="Nessim's GitHub activity graph" />
+  <a href="https://github.com/nessim141?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20all%20repositories-0078d4?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+  </a>
 </p>
 
 ## 🌍 Languages
