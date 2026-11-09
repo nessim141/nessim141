@@ -1,30 +1,54 @@
-# Hi, I'm Nessim Said 👋
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Nessim Said — Cloud Infrastructure and DevOps" width="100%" />
+</p>
 
-### Cloud & DevOps Engineer | Kubernetes | Infrastructure Automation | Java
+<h1 align="center">Nessim Said</h1>
 
-I build reliable cloud infrastructure and practical software, with a focus on Kubernetes, containerized workloads, and automation. My work spans managed clusters on **Oracle Cloud (OKE)** and **Google Cloud (GKE)**, ingress and certificate management, DNS automation, GitOps with Argo CD, and Java/Spring Boot applications. I enjoy turning complex operational problems into clear, repeatable systems and I’m always looking for opportunities to learn, contribute, and build technology that works well in production.
+<p align="center">
+  <strong>Telecommunications Engineer specializing in Cloud Infrastructure and DevOps</strong><br />
+  <a href="mailto:nassimsaid22@gmail.com">nassimsaid22@gmail.com</a> · Nabeul, Tunisia ·
+  <a href="https://www.linkedin.com/in/nessim-said/">LinkedIn</a> ·
+  <a href="https://github.com/nessim141">GitHub</a>
+</p>
 
-## What I work with
+## Profile
 
-- **Cloud:** Oracle Cloud Infrastructure (OCI), OKE, Google Cloud, GKE
-- **Platform engineering:** Kubernetes, Docker, Helm, Traefik, NGINX Ingress
-- **Automation & GitOps:** Argo CD, ExternalDNS, cert-manager
-- **Development:** Java, Spring Boot
-- **Focus:** Infrastructure as code, deployment reliability, observability, and clean technical documentation
+Telecommunications Engineer specializing in Cloud Infrastructure and DevOps, with an interest in designing and deploying secure cloud infrastructures across **OCI, AWS, GCP, and Azure** using DevOps practices and operational automation. My background has helped me develop a security-, reliability-, and monitoring-oriented approach to deployed services, combining Infrastructure as Code, Kubernetes, CI/CD, observability, and practical automation. Curious and detail-oriented, I aim to help build scalable, secure, and optimized platforms through process industrialization.
+
+## Technical focus
+
+| Area | Technologies |
+| --- | --- |
+| **Cloud** | OCI, OKE, AWS, GCP, GKE, Azure |
+| **Platform** | Kubernetes, Docker, Linux, Terraform, Ansible |
+| **CI/CD & GitOps** | Jenkins, GitHub Actions, Argo CD |
+| **Networking & security** | DNS, DHCP, TCP/IP, SNMP, OpenLDAP, SSH |
+| **Observability** | Prometheus, Grafana, Nagios |
+| **Development** | Java, Spring Boot, Python, Bash, REST APIs |
 
 ## Featured projects
 
-- [**OCI OKE**](https://github.com/nessim141/oci-oke) — A managed Kubernetes cluster with ExternalDNS, cert-manager, and Traefik.
-- [**GCP GKE**](https://github.com/nessim141/GCP-GKE) — A managed GKE cluster configured for modern platform workloads.
-- [**Argo CD for the Absolute Beginners**](https://github.com/nessim141/Argo-CD-for-the-Absolute-Beginners) — A hands-on introduction to GitOps and continuous delivery.
-- [**Sysfoo**](https://github.com/nessim141/sysfoo) — A systems information and todo-list application built with Spring Boot.
+- [**DNS Infrastructure and TLS Automation**](https://github.com/nessim141/oci-oke) — Kubernetes infrastructure on OCI and GCP with Terraform, ExternalDNS, cert-manager, Jenkins, and monitoring.
+- [**Sovereign AI Platform**](https://github.com/nessim141/oci-oke) — Terraform-managed Hetzner infrastructure, KubeAI deployments, GitHub Actions, Prometheus, and Grafana.
+- [**Java Projects Portfolio**](https://github.com/nessim141/Java_projects) — JavaFX applications, a hotel reservation system, and database-focused projects.
+- [**Sysfoo**](https://github.com/nessim141/sysfoo) — A Spring Boot systems information and todo-list application.
+- [**Argo CD for Beginners**](https://github.com/nessim141/Argo-CD-for-the-Absolute-Beginners) — A practical introduction to GitOps and continuous delivery.
 
-## Currently building
+## Certifications
 
-A stronger foundation in cloud-native engineering through hands-on Kubernetes, GitOps, and application projects.
+AWS DevOps Academy Graduate · Cisco DevNet Associate · Cisco CCNA 1 & 2 · LPIC-101
 
-## Let’s connect
+## Education
 
-I’m open to conversations about cloud infrastructure, DevOps, Kubernetes, Java, and opportunities where I can help teams ship reliable software.
+- **ENETCOM, Sfax** — National Engineering Degree in Telecommunications, 2023–2026
+- **IPEIN, Nabeul** — Preparatory Classes in Mathematics and Physics, 2021–2023
 
-[![GitHub](https://img.shields.io/badge/GitHub-nessim141-181717?style=flat&logo=github)](https://github.com/nessim141)
+## Languages
+
+Arabic (Native) · French (B2) · English (B2)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-OCI%20%7C%20AWS%20%7C%20GCP%20%7C%20Azure-0078D4?style=for-the-badge" alt="Cloud platforms" />
+  <img src="https://img.shields.io/badge/Platform-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Code-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
