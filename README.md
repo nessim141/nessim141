@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:nessimsaid22@gmail.com">📧 Email</a> ·
-  <a href="www.linkedin.com/in/nessim-said-23321b285">💼 LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/nessim-said-23321b285/">💼 LinkedIn</a> ·
   <a href="https://github.com/nessim141">💻 GitHub</a> ·
   📍 Tunisia
 </p>
@@ -167,7 +167,7 @@ Arabic — Native · French — B2 · English — B2
 ## 🤝 Let’s connect
 
 <p align="center">
-  <a href="mailto:nessimsaid22@gmail.com"><img src="https://img.shields.io/badge/Email-nassimsaid22%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nessim" /></a>
+  <a href="mailto:nessimsaid22@gmail.com"><img src="https://img.shields.io/badge/Email-nessimsaid22%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nessim" /></a>
   <a href="www.linkedin.com/in/nessim-said-23321b285"><img src="https://img.shields.io/badge/LinkedIn-Nessim%20Said-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nessim on LinkedIn" /></a>
 </p>
 
