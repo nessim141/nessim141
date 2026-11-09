@@ -1,0 +1,20 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Nessim Said - Cloud Infrastructure and DevOps">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.55" stop-color="#123b5d"/>
+      <stop offset="1" stop-color="#0078d4"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="24" fill="url(#grid)"/>
+  <circle cx="1030" cy="70" r="120" fill="#38bdf8" fill-opacity=".13"/>
+  <circle cx="1110" cy="190" r="150" fill="#22c55e" fill-opacity=".10"/>
+  <text x="72" y="112" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Nessim Said</text>
+  <text x="75" y="158" fill="#dbeafe" font-family="Arial, Helvetica, sans-serif" font-size="23">Telecommunications Engineer</text>
+  <text x="75" y="196" fill="#bae6fd" font-family="Arial, Helvetica, sans-serif" font-size="23">Cloud Infrastructure • DevOps • Kubernetes</text>
+  <text x="75" y="238" fill="#bbf7d0" font-family="Arial, Helvetica, sans-serif" font-size="17">OCI • AWS • GCP • Azure</text>
+</svg>
